@@ -1,2 +1,3 @@
-# GercekZamanl-ElmaSayar
-Elma Sayar Renk Söyler
+#Renkleri Tanıyıp Sayan Mobil Tabanlı Ardunio Uygulama
+
+
